@@ -30,3 +30,11 @@ The A* algorithm ensures the most efficient solution path by combining:
 - **Language**: Python 3
 - **Library**: Pygame
 - **Concepts**: Heuristic search, state space representation, pathfinding
+
+## 👨‍💻 Authors
+
+This project was developed by a team of students as part of the Artificial Intelligence course:
+
+- **Mohammed Nabil Alattar**
+- **Mohammed Shaban**
+- **Mohammed Saleh**
