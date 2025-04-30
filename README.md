@@ -33,7 +33,7 @@ The A* algorithm ensures the most efficient solution path by combining:
   
 ## 📄 Project Proposal
 
-You can read the full project proposal [here](N-Puzzle Proposal.pdf).
+You can read the full project proposal [here](https://github.com/MohamedNabil114/N-puzzle-game/blob/main/N-Puzzle%20Proposal.pdf).
 
 
 ## 👨‍💻 Authors
