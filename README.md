@@ -33,7 +33,7 @@ The A* algorithm ensures the most efficient solution path by combining:
 
 ## 👨‍💻 Authors
 
-This project was developed by a team of students as part of the Artificial Intelligence course:
+This project was developed by :
 
 - **Mohammed Nabil Alattar**
 - **Mohammed Shaban**
